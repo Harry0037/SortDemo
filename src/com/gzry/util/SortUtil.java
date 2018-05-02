@@ -98,7 +98,7 @@ public class SortUtil {
 //        bubbleSort冒泡排序(arr);
 //        selectionSort选择排序(arr);
 //        insertSort插入排序(arr);
-        shellSort希尔排序(arr);
+//        shellSort希尔排序(arr);
         for (int i = 0; i < arr.length; i++){
             System.out.print(arr[i]+" ");
         }
